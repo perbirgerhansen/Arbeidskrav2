@@ -20,7 +20,8 @@ Benytter if og else settning, benytter også funksjonen pandas for å få et bed
 
 Oppgave 5.
 Lag et program med regner ut omkrets og areal av en trekant og halvsirkel
-Laget to funksjoner, hvor den ene tar for seg trekant og den andre halvsirkel 
+Laget to funksjoner, hvor den ene tar for seg trekant og den andre halvsirkel
+På spørsmål om alle sidene skal benyttes i trekant, dette er en rettvinklet trekant og da benytter vi formler, og taster inn kun a og b. 
 
 Oppgave 6.
 Lag et program som plotter 𝑓(𝑥) = −𝑥2 − 5, for x på intervallet [-10,10]. 
