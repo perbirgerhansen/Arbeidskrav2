@@ -15,10 +15,10 @@ Lag et program med en funksjon som regner om fra grader til radianer.
 Importert numpy, benytter pi i utregning. 
 
 Oppgave 4.   
-Opprett en dictionary og ved hjelp av verdien man legger inn finner man ut om landet er registert i dictionary eller om landet, hovedstad og innbyggere skal legges inn. Benytter if og else settning, benytter også funksjonen pandas for å få et bedre design på dicionary.  
+Opprett en dictionary og ved hjelp av verdien man legger inn finner man ut om landet er registrert i dictionary eller om landet, hovedstad og innbyggere skal legges inn. Benytter if og else settning, benytter også funksjonen pandas for å få et bedre design på dicionary.  
 
 Oppgave 5.
-Lag et program med regner ut omkrets og areal av en trekant og halvsirkel.
+Lag et program som regner ut omkrets og areal av en trekant og halvsirkel.
 Laget to funksjoner, hvor den ene tar for seg trekant og den andre halvsirkel. Vi spør om diameter. 
 På spørsmål om alle sidene skal benyttes i trekant, dette er en rettvinklet trekant og da benytter vi formler, og taster inn kun a og b. 
 
